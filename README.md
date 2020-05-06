@@ -1,2 +1,4 @@
 # Codechef-Input-Copier
-Codechef-Input-Copier is a chorme extension which create copy button near to input data to copy input.
+while solving competitive programming question we copy input data to check our solution . but In codechef there is no option to copy input............. so
+Codechef-Input-Copier chorme extension will help to copy input data.
+It actually create copy button near input data. as follows
