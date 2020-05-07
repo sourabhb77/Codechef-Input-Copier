@@ -4,6 +4,11 @@ Codechef-Input-Copier chorme extension will help to copy input data.
 It actually create copy button near input data. as follows
 
 
+###Before
+![](before.png)
+
+###After
+![](after.png)
 
 
 feel free to make change and use it
